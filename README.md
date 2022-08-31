@@ -5,7 +5,7 @@
 │   ├── manifests
 │   │   └── AndroidManifests.xml
 │   ├── java
-│   │   ├── com.mrinalraj.flipit
+│   │   ├── com.game.flipit
 │   │   │   ├── Adapters
 │   │   │   │   ├── EasyLevelAdapter.java
 │   │   │   │   └── HardLevelAdapter.java
